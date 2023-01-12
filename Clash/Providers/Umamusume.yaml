@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,prd-info-umamusume.akamaized.net
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+  - DOMAIN,prd-storage-umamusume.akamaized.net
+  - DOMAIN,omotenashi.cygames.jp
+  - DOMAIN,api-umamusume.cygames.jp
+  - DOMAIN,api-common01.cygames.jp
