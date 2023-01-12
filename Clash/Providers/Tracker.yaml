@@ -35,3 +35,4 @@ payload:
   - DOMAIN,sq.bls.mdt.qq.com
   - DOMAIN,pingma.qq.com
   - DOMAIN-SUFFIX,tfogc.com
+  - DOMAIN-SUFFIX,backtrace.io
