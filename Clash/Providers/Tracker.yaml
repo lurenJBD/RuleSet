@@ -2,6 +2,9 @@ payload:
   - DOMAIN-SUFFIX,iap.unity3d.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,config.uca.cloud.unity3d.com
+  - DOMAIN,collect.analytics.unity3d.com
+  - DOMAIN,pls.prd.mz.internal.unity3d.com
+  - DOMAIN,operate-sdk-telemetry.unity3d.com
   - DOMAIN,m.analytics.126.net
   - DOMAIN,log.umsns.com
   - DOMAIN-SUFFIX,asbpush.com
@@ -36,3 +39,5 @@ payload:
   - DOMAIN,pingma.qq.com
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,backtrace.io
+  - DOMAIN,ocsp.sca1b.amazontrust.com
+  - DOMAIN,api.onesignal.com
