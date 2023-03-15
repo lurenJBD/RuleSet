@@ -4,4 +4,7 @@ payload:
   - DOMAIN-SUFFIX,c3pool.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN,ws.infinitynewtab.com
+  - DOMAIN,api.insight.synology.com
   - DOMAIN-SUFFIX,quickconnect.to
+  - DOMAIN-SUFFIX,quickconnect.cn
+  - IP-CIDR,220.130.197.210/32
