@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twittr.com
+  - DOMAIN,syndication.twitter.com
